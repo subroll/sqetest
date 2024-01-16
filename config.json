@@ -1,0 +1,11 @@
+{
+  "http": {
+    "port": ":8080"
+  },
+  "db": {
+    "address": "localhost:3306",
+    "name": "sqetest",
+    "username": "root",
+    "password": ""
+  },
+}
